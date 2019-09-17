@@ -1,0 +1,10 @@
+The git status command is not mandatory but is much preferred because it 
+allows a developer to see each step of the process and be absolutely clear 
+what they are doing with each git command. If there is ever a problem 
+with uploading using git, the git status command identifies the problem
+and shows it in the error status. 
+
+ls, git status and pwd are all shell commands, so they only work in bash. 
+Node is specifically for javascript and the above commands are not part of 
+javascript's language so nothing would result from it. To exit node, 
+press control C C to go back to bash. 
